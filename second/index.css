@@ -1,0 +1,42 @@
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+.col{
+  width: 33%;
+  height: 100vh;
+  margin: 0;
+/*  display: inline-block;*/
+}
+
+
+.left {
+
+  background-color: #4A90E2;
+  float: left;
+}
+.center {
+
+  background-color: #50E3C2;
+  float: left;
+}
+.right {
+  background-color: #B8E986;
+  float: left;
+}
+
+.img-placeholder{
+  width: 33.33%;
+  height: 20%;
+  background-color: red;
+  position: absolute;
+  bottom: 0;
+  margin-bottom: 0;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+  padding: 40px 30px 30px 30px;
+}
